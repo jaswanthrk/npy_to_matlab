@@ -26,3 +26,7 @@ __python npy_to_matlab.py  File1.npy   Folder1/File2.npy  Folder2__
 > The output files are :   
 > File3.mat  
 > File4.mat 
+
+
+### Notes :
+Thanks to @ruitome. This is built on the following repository by @ruitome : https://github.com/ruitome/npy_to_matlab
