@@ -3,7 +3,7 @@ You can use this python script to convert your '.npy' file to '.mat' file.
 
 ### Usage :  
 
-__python npy_to_matlab.py File1.npy  Folder1/File2.npy Folder2__
+__python npy_to_matlab.py  File1.npy   Folder1/File2.npy  Folder2__
 
 #### Output : 
 
