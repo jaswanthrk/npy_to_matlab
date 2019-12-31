@@ -8,9 +8,7 @@ __python npy_to_matlab.py File1.npy  Folder/File2.npy__
 #### Output : 
 
 > The arguments are : ['File1.npy', 'Folder/File2.npy'] 
-
 > The FILE : File1.npy 
-
 > The input files are : ['File1.npy']
 
 The output files are : 
